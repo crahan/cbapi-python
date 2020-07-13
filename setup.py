@@ -40,8 +40,8 @@ if sys.version_info < (3, 0):
     install_requires.extend(['futures'])
 
 setup(
-    name='cbapi',
-    version='1.6.2',
+    name='cbapi-test',
+    version='1.6.2-test',
     url='https://github.com/carbonblack/cbapi-python',
     license='MIT',
     author='Carbon Black',
